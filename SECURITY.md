@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please email security@minionteechs.com instead of using the issue tracker.
+If you discover a security vulnerability, please email minionteechs@gmail.com instead of using the issue tracker.
 
 Include:
 - Description of the vulnerability
