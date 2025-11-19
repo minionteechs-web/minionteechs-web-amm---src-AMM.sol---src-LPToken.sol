@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.js eol=lf
+*.ts eol=lf
+*.sol eol=lf
+*.json eol=lf
+*.md eol=lf
+*.sh eol=lf
